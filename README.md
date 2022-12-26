@@ -2,7 +2,7 @@
   Greetings! 🤙 I'm Micah.
 </h1>
 <h3 align='center'>
-  A tech enthusiast and junior DevOps.
+  A tech enthusiast and junior in DevOps.
 </h3>
 <h5 align='center'>
   Pronouns: He, Him, His
