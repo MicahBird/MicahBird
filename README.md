@@ -9,6 +9,7 @@
 </h5>
 <div align='center'>
   <img src='https://forthebadge.com/images/badges/fo-shizzle.svg'>
+  <img src='https://notbyai.fyi/img/written-by-human-not-by-ai-white.svg'>
 </div>
 
 |Category              |Tech Used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
