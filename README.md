@@ -33,3 +33,4 @@
 #### Contact Info
 - [PGP](https://raw.githubusercontent.com/MicahBird/MicahBird/main/public.asc)
     - Fingerprint: `6216 9B0C D146 4B1A B4C7 0085 C376 C5A2 B493 EF32`
+- <a rel="me" href="https://fosstodon.org/@boc64">Mastodon</a>
