@@ -8,7 +8,6 @@
   Pronouns: He, Him, His
 </h5>
 <div align='center'>
-  <img src='https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/fo-shizzle.svg'>
   <img src='https://notbyai.fyi/img/written-by-human-not-by-ai-white.svg'>
 </div>
 
